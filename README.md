@@ -77,7 +77,8 @@ This project is open-source and available under the MIT License.
 👨‍💻 Author
 
 Mayank Bisht
-• GitHub: https://github.com/your-username
+• GitHub: https://github.com/MaynkBisht
+
 • Portfolio: https://codeheaveportfolio.onrender.com/
 
 ⸻
