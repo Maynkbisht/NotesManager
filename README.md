@@ -1,95 +1,87 @@
-📝 Notes Manager Application
+Notes Manager Application
 
-A feature-rich Notes Manager Web App built with React.js that allows users to create, edit, delete, and organize notes efficiently with a clean and intuitive user interface.
+A feature-rich Notes Manager web app built with React.js that allows users to create, edit, delete, and organize notes efficiently through a clean, intuitive interface.
 
-⸻
+Preview
 
-🚀 Features
-• ✍️ Create new notes easily
-• 📝 Edit existing notes
-• ❌ Delete notes
-• 📂 Organize notes efficiently
-• ⚡ Fast and responsive UI
-• 💾 Data persistence (if using local storage / backend)
+A single-page notes application where users can quickly capture, update, and remove notes, with a responsive layout designed for everyday productivity use.
 
-⸻
+Tech Stack
 
-🛠️ Tech Stack
-• Frontend: React.js, JavaScript (ES6+), HTML5, CSS3
-• Tools: Git, GitHub, VS Code
 
-⸻
+Frontend: React.js, JavaScript (ES6+), HTML5, CSS3
+Tools: Git, GitHub, VS Code
 
-📂 Installation & Setup
 
-Follow these steps to run the project locally:
+Features
 
-# Clone the repository
 
-git clone https://github.com/Maynkbisht/NotesManager.git
+Create new notes
+Edit existing notes
+Delete notes
+Organize notes efficiently
+Fast, responsive UI
+Data persistence (local storage / backend, depending on configuration)
 
-# Navigate into the project folder
 
-cd notes-manager
+Project Structure
 
-# Install dependencies
+NotesManager/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
 
-npm install
+Getting Started
 
-# Start the development server
 
-npm start
+Clone the repository
 
-⸻
 
-📁 Folder Structure
+bash   git clone https://github.com/Maynkbisht/NotesManager.git
 
-notes-manager/
-│── public/
-│── src/
-│ ├── components/
-│ ├── App.js
-│ ├── index.js
-│── package.json
 
-⸻
+Navigate into the project folder
 
-💡 Future Improvements
-• 🔐 User authentication (login/signup)
-• ☁️ Backend integration (MongoDB / Firebase)
-• 📱 Mobile app version
-• 🌙 Dark mode
 
-⸻
+bash   cd NotesManager
 
-🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
+Install dependencies
 
-⸻
 
-📄 License
+bash   npm install
+
+
+Start the development server
+
+
+bash   npm start
+
+The app will run at http://localhost:3000 by default.
+
+Future Improvements
+
+
+User authentication (login/signup)
+Backend integration (MongoDB / Firebase)
+Mobile app version
+Dark mode
+
+
+Contributing
+
+Contributions are welcome. Feel free to fork this repository and submit a pull request.
+
+License
 
 This project is open-source and available under the MIT License.
 
-⸻
-
-👨‍💻 Author
+Author
 
 Mayank Bisht
-• GitHub: https://github.com/MaynkBisht
-
-• Portfolio: https://codeheaveportfolio.onrender.com/
-
-⸻
-
-:::
-
-⸻
-
-🔥 Quick Tips
-• Replace:
-• your-username
-• live link #
-• Add screenshots → makes your repo look 🔥
-• Pin this repo on GitHub
+GitHub: Maynkbisht
+Portfolio: codeheaveportfolio.onrender.com
