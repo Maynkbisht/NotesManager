@@ -5,6 +5,8 @@ A feature-rich Notes Manager web app built with React.js that allows users to cr
 ## Preview
  
 A single-page notes application where users can quickly capture, update, and remove notes, with a responsive layout designed for everyday productivity use.
+
+Live Demo: https://eznoteflow.vercel.app/
  
 ## Tech Stack
  
